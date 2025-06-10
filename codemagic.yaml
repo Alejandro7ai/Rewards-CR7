@@ -1,5 +1,3 @@
-codemagic.yaml
-
 workflows:
   android-workflow:
     name: Build Android APK
